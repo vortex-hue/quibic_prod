@@ -70,13 +70,13 @@
 
 :root {
 	
-	/* ##FF4A17 in decimal RGB */
-  --main-color: rgb(255,74,23);
+	/* #steelblue in decimal RGB */
+  --main-color: steelblue;
   
-  /* #FF4A17 in decimal RGBA */
+  /* steelblue in decimal RGBA */
   --main-color-rgba: rgb(255,74,23,0.10);
   
-  /* #FF4A17 in decimal RGBA */
+  /* steelblue in decimal RGBA */
   --main-color-rgba-two: rgb(255,74,23,0.05);
   
   /* #efeef5 in decimal RGB */
@@ -1216,6 +1216,7 @@ img{
 	display:inline-block;
 	max-width:100%;
 	height:auto;	
+	width: 150px;
 }
 
 /*** 
